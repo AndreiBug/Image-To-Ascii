@@ -16,7 +16,7 @@ This project processes and converts an input image into an ASCII art representat
 
 The following ASCII characters represent different intensity ranges:
 
-- `\#` for darkest pixels.
+- `#` for darkest pixels.
 - X % & * + / ( ' and space for increasing brightness.
 
 You can customize the mapping by adjusting the ranges in the script.
